@@ -1,0 +1,129 @@
+SPACE CHEESE - LIZENZ (FREEWARE)
+==================================
+
+Space Cheese
+Copyright (c) 2026 Käse_Hobel
+Alle Rechte vorbehalten.
+
+Diese Software wird als FREEWARE veröffentlicht. Das bedeutet:
+
+1. KOSTENLOSE NUTZUNG
+   Space Cheese darf kostenlos heruntergeladen, installiert und
+   gespielt werden - privat wie auch von mehreren Personen auf
+   demselben PC (mehrere Spielprofile). Es ist kein Kauf erforderlich.
+
+2. SPENDEN
+   Im Spiel gibt es einen freiwilligen Spenden-Button. Eine Spende ist
+   rein freiwillig, unterstützt die Weiterentwicklung und schaltet
+   keine zusätzlichen Funktionen oder Inhalte frei - alle Spieler
+   erhalten den vollen Funktionsumfang, ob mit oder ohne Spende.
+
+3. VIRTUELLE MÜNZEN
+   Die Münzen im Spiel, der Münzeinwurf und der Slot sind Teil des
+   Automatengefühls. Es handelt sich um virtuelle Münzen ohne
+   Gegenwert: kein echtes Geld, nichts kaufbar, nichts auszahlbar. Der
+   Slot ist empfohlen ab 18 Jahren; das Spiel weist vor der ersten
+   Nutzung darauf hin.
+
+4. WEITERGABE
+   Space Cheese darf unverändert und kostenlos weitergegeben werden
+   (z. B. an Freunde oder über eigene Speichermedien), solange dabei
+   keine Gebühr verlangt wird und diese Lizenzdatei beiliegt. Der
+   Weiterverkauf, das erneute Verpacken als eigenes Produkt oder die
+   Veröffentlichung auf Plattformen Dritter (z. B. Store-Plattformen)
+   ohne ausdrückliche schriftliche Erlaubnis des Urhebers ist nicht
+   gestattet.
+
+5. KEINE VERÄNDERUNG
+   Das Verändern, Zurückentwickeln (Reverse Engineering),
+   Dekompilieren oder Erstellen abgeleiteter Werke auf Basis von
+   Space Cheese ist ohne ausdrückliche schriftliche Erlaubnis des
+   Urhebers nicht gestattet.
+
+6. KEINE GEWÄHRLEISTUNG
+   Diese Software wird "wie besehen" ("as is") zur Verfügung gestellt,
+   ohne jegliche ausdrückliche oder stillschweigende Gewährleistung,
+   einschliesslich, aber nicht beschränkt auf die Gewährleistung der
+   Marktgängigkeit oder der Eignung für einen bestimmten Zweck. Der
+   Urheber haftet nicht für Schäden, die durch die Nutzung dieser
+   Software entstehen.
+
+7. SPIELSTÄNDE
+   Spielstände künftiger Versionen bleiben nach Möglichkeit lesbar,
+   eine Garantie dafür gibt es aber nicht.
+
+8. GENUTZTE DRITTKOMPONENTEN
+   Space Cheese verwendet die folgenden Komponenten, jeweils unter
+   ihrer eigenen Lizenz. Für diese Komponenten gilt ausschließlich
+   ihre eigene Lizenz; die Einschränkungen dieser Lizenz (zum
+   Beispiel Punkt 5) gelten für sie nicht. Die vollständigen Angaben
+   mit Quellen und Links stehen im Spiel unter Lesesaal > Hilfe >
+   Credits.
+
+   Technik:
+   - MonoGame Framework 3.8.5.1 (Microsoft Public License),
+     Grafikausgabe über DirectX
+   - SharpDX 4.0.1 von Alexandre Mutel (MIT-Lizenz)
+   - .NET 10 / System.Drawing.Common (MIT-Lizenz)
+   Die vollständigen Lizenztexte dieser drei liegen dem Spiel als
+   Assets/komponenten_lizenzen.txt bei.
+
+   Schrift:
+   - "Space Grotesk" von Florian Karsten
+     (SIL Open Font License 1.1). Der vollständige Lizenztext liegt
+     dem Spiel als Assets/spielschrift_lizenz.txt bei.
+   - "PT Serif" von ParaType
+     (SIL Open Font License 1.1). Der vollständige Lizenztext liegt
+     dem Spiel als Assets/lesbare_schrift_lizenz.txt bei.
+
+   Klang:
+   - Einzelne Soundeffekte (Münzeinwurf, Game Over, Hochfahrgeräusch
+     des Automaten samt Ping) von Pixabay (Pixabay Content License -
+     freie Nutzung, auch kommerziell, keine Namensnennung
+     erforderlich)
+
+   Grafik:
+   - Maskottchen (Maus) von m0ndkatz, mit freundlicher Genehmigung
+     verwendet. Diese Grafik darf nicht verändert werden.
+   - Gemälde "Still Life with Cheese" von Antoine Vollon (1833-1900),
+     The Metropolitan Museum of Art, Public Domain / Open Access (CC0)
+   - Holzhintergrund von Käselexikon und Hilfe von pogrebkov, iStock /
+     Getty Images (lizenziert erworben, Standardlizenz)
+   - Hintergrund des Lesesaals: Foto von Mahmoud Amer, Pexels
+     (Pexels-Lizenz - freie Nutzung, auch kommerziell)
+   - Weltraum-Hintergründe der Level, der Chaos-Flotte und des
+     Menü-Monitors: Aufnahmen der Teleskope Hubble, James Webb und
+     Euclid, NASA/ESA/CSA (gemeinfrei bzw. CC BY 4.0,
+     creativecommons.org/licenses/by/4.0/, einzeln genannt in den
+     Credits)
+   - Erdfoto im Startbild und im Leuchtschild: NASA (ISS)
+   - Karten von Erde, Mars, Jupiter, Mond und Pluto bei den
+     Sammelfiguren: NASA (gemeinfrei), einzeln genannt in den Credits
+   - Automat auf dem Startbildschirm, Hintergrund des Schaukastens und
+     die 60 Medaillen: für Space Cheese mit einem KI-Bildwerkzeug
+     erstellt (Google Gemini)
+
+   Alle übrigen Grafiken, Klänge und Texte in Space Cheese stammen vom
+   Urheber selbst - die Raumschiffe, das Herz, die Käsesticks, die
+   Münze, die Power-Up-Symbole und die Sammelfiguren sind eigene
+   3D-Modelle aus Blender. Schuss, Explosionen, Alarmhupe sowie Sirene und
+   Countdown der Selbstzerstörung liegen als eigene, eigens für
+   dieses Spiel erzeugte Tondateien bei; alle übrigen Töne werden vom
+   Spiel zur Laufzeit selbst erzeugt.
+
+9. UPDATE-SUCHE
+   Beim Start fragt das Spiel eine kleine Versionsdatei beim
+   Speicherdienst Cloudflare R2 ab. Dabei wird wie bei jedem Abruf
+   einer Internetseite die Internetadresse des Rechners übermittelt,
+   sonst nichts - keine Kennung, kein Name, keine Spielstände. Ein
+   Update wird nur nach ausdrücklicher Bestätigung geladen und
+   installiert. Ohne Internet läuft das Spiel normal.
+
+10. HINWEIS ZUR ENTWICKLUNG
+   Bei der Entwicklung dieses Spiels wurde KI-Unterstützung
+   eingesetzt. Der Quellcode wurde durch den Entwickler geprüft,
+   angepasst und für dieses Projekt zusammengestellt.
+
+Bei Fragen zu dieser Lizenz oder für eine Sondererlaubnis (z. B. zur
+Weiterverbreitung) wenden Sie sich an den Urheber: Käse_Hobel,
+www.info-kaesehobel.ch, info@info-kaesehobel.ch
